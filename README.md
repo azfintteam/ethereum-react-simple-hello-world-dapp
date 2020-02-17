@@ -27,7 +27,7 @@ This is a *responsive web application* for viewing in both Mobile and Desktop.
 
 ## Installation
 
-1. Clone the repository using `git clone https://github.com/anijitsahu/ethereum-react-simple-hello-world-dapp.git` from `Git Bash / Command Prompt`
+1. Clone the repository using `git clone https://github.com/anijitsahu/ethereum-react-simple-hello-world-dapp.git` from `Git Bash / Command Prompt` 
 2. Navigate inside the directory by `cd ethereum-react-simple-hello-world-dapp`
 3. Install all the necessary dependecies by using `npm install` 
 4. Generate the build by `npm run dev` 
