@@ -27,11 +27,11 @@ This is a *responsive web application* for viewing in both Mobile and Desktop.
 
 ## Installation
 
-1. Clone the repository using `git clone https://github.com/anijitsahu/ethereum-react-simple-tic-tac-toe-dapp.git` from `Git Bash / Command Prompt`
-2. Navigate inside the directory by `cd ethereum-react-simple-tic-tac-toe-dapp`
+1. Clone the repository using `git clone https://github.com/anijitsahu/ethereum-react-simple-hello-world-dapp.git` from `Git Bash / Command Prompt`
+2. Navigate inside the directory by `cd ethereum-react-simple-hello-world-dapp`
 3. Install all the necessary dependecies by using `npm install` 
 4. Generate the build by `npm run dev` 
-5. Open another `Command Prompt` and Run it as Administrator (in Windows)  and navigate to the same directory `ethereum-react-simple-tic-tac-toe-dapp`
+5. Open another `Command Prompt` and Run it as Administrator (in Windows)  and navigate to the same directory `ethereum-react-simple-hello-world-dapp`
 6. In the second Command prompt, run the *Truffle Development network* by `truffle develop`. Make sure you have installed <a href="https://www.trufflesuite.com/">Ethereum Truffle</a> in your macheine 
 7. In the second Command prompt, deploy the blockchain by `truffle migrate`
 8. Now in a Web browser navigate to `http://localhost:8081` and enjoy the TicTacToe game
